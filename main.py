@@ -92,4 +92,4 @@ async def setup(ctx, command: str):
     else:
         await ctx.send('Invalid setup command.')
 
-bot.run(os.getenv('DISCORD_BOT_TOKEN'))
+bot.run(os.getenv('brdyUTvJDyR-OOjdRMNdAQo0hfi17V0E'))
